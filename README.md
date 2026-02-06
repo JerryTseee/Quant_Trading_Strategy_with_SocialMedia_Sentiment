@@ -1,4 +1,6 @@
 # Quant_Trading_Strategy_with_SocialMedia_Sentiment  
+<img width="943" height="249" alt="image" src="https://github.com/user-attachments/assets/b9e2e2ef-0772-4e11-9285-ffe888cdefa8" />  
+  
 This report presents a comprehensive backtesting analysis of various trading strategies applied to the Hang Seng Index (HSI) for the period from February 24, 2022, to March 12, 2025. The analysis evaluates four distinct strategies:   
   
 • Pure Sentiment  
